@@ -100,8 +100,8 @@ Once the page is loaded, the browser sends further async requests as needed.
      Answer To be added
 24. ### Does react component only update on state change or also on prop change ?
      Answer To be added
-25. ### How to start a new Angular project from cli ?
-        <br>
+25. ### How to start a new Angular project from cli ?<br>
+       
      Angular CLI is a tool that does all these things for you in some simple commands. Angular CLI uses webpack behind to do all this process.<br>
      Step-1: Install angular cli npm install - g @angular/cli.<br>
      Step-2: Create new project by this command. ng new myNewApp<br>
